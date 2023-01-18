@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* background-image: linear-gradient(to top,#fff 0,rgba(105,90,166,.35) 99%,rgba(105,90,166,.5) 100%); */
+  }
+  
+  .container {
+    flex: 1 1;
+  }
+  

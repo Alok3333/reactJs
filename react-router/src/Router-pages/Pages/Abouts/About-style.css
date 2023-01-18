@@ -1,0 +1,26 @@
+.about_title {
+  display: flex;
+  width: 80%;
+  margin-top: 60px;
+}
+
+.about_title h1 {
+  font-size: 18px;
+  margin-left: 173px;
+}
+
+.food_image {
+  display: flex;
+}
+
+.food_image img {
+  width: 500px;
+  margin-left: 30%;
+  /* margin-top: 50px; */
+}
+
+.button_read {
+  margin-top: -17%;
+  width: 121px;
+  margin-left: 170px;
+}
