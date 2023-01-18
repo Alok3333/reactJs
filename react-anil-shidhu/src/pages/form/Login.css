@@ -1,0 +1,37 @@
+.form1 {
+    margin-top: 30%;
+    background-color: midnightblue;
+    padding: 60px;
+    box-sizing: border-box;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 12px;
+}
+
+.form1 input[type="text"] {
+    font-size: 20px;
+    border-radius: 5px;
+    height: 34px;
+    width: 350px;
+    outline: none;
+    letter-spacing: 1px;
+    line-height: 2px;
+}
+
+.form1 input[type="text"]:hover {
+    border-color: red;
+}
+
+.submitBtn {
+    font-size: 18px;
+    padding: 6px;
+    border-radius: 6px;
+    width: 200px;
+    text-shadow: 0 0 darkblue;
+    cursor: pointer;
+}
+
+.submitBtn:hover {
+    background-color: red;
+    color: white;
+}

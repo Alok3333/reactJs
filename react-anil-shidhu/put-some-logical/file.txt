@@ -1,0 +1,21 @@
+import { useState } from 'react';
+import './App.css';
+
+function App() {
+  const [data, setData] = useState('Alok');
+  // let data = "Alok";
+  function apple() {
+    const data = "Raja is back my dear friend";
+    setData(data);
+    // setData(alert(data));
+    // console.log(setData);
+  }
+  return (
+    <div className="App">
+      <h1>{data}</h1>
+      <button onClick={apple}>click Me</button>
+    </div>
+  );
+}
+
+export default App;
