@@ -1,0 +1,24 @@
+{
+    "contact":[
+        {
+            "id":1,
+            "name":"Alok Prajapati",
+            "email":"Alokpra35@gmail.com"
+        },
+        {
+            "id":2,
+            "name":"Divya Mishra",
+            "email":"DivyaMis44@gmail.com"
+        },
+        {
+            "id":3,
+            "name":"Pradeep Verma",
+            "email":"PradeepVerma54@gmail.com"
+        },
+        {
+            "id":4,
+            "name":"Rahul K",
+            "email":"RahulK45@gmail.com"
+        }
+    ]
+}
